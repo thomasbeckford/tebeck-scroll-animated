@@ -10,7 +10,7 @@ export const NoLockin = () => (
       <br />
       If you want to reach out, you can find me on <br />
       <a
-        href="https://discord.com/tebeckford"
+        href="https://discordapp.com/users/435229183791202324"
         target="_blank"
         rel="noopener noreferrer"
         className="underline"
@@ -19,7 +19,7 @@ export const NoLockin = () => (
       </a>{" "}
       or{" "}
       <a
-        href="https://www.linkedin.com/in/thomas-beckford/"
+        href="https://www.linkedin.com/in/thomas-beckford-07520775/"
         target="_blank"
         rel="noopener noreferrer"
         className="underline"
