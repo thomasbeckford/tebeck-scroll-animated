@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" fill="none">
+  <rect width="1440" height="810" rx="6" fill="#151515"/>
+  <rect x="848" y="60" width="580" height="365" rx="4" fill="#1F1F1F"/>
+  <rect x="848" y="433" width="580" height="365" rx="4" fill="#1F1F1F"/>
+  <path d="M1400 74C1400 72.8954 1400.9 72 1402 72H1414C1415.1 72 1416 72.8954 1416 74V86C1416 87.1046 1415.1 88 1414 88H1402C1400.9 88 1400 87.1046 1400 86V74Z" class="loading"/>
+  <rect x="860" y="445" width="117" height="16" rx="2" class="loading"/>
+  <rect x="860" y="72" width="117" height="16" rx="2" class="loading"/>
+  <path d="M1400 447C1400 445.895 1400.9 445 1402 445H1414C1415.1 445 1416 445.895 1416 447V459C1416 460.105 1415.1 461 1414 461H1402C1400.9 461 1400 460.105 1400 459V447Z" class="loading"/>
+  <rect x="12" y="60" width="112" height="16" rx="2" class="loading"/>
+  <rect x="12" y="110" width="126" height="16" rx="2" class="loading"/>
+  <rect x="12" y="162" width="112" height="16" rx="2" class="loading"/>
+  <rect x="12" y="318" width="112" height="16" rx="2" class="loading"/>
+  <rect x="12" y="214" width="101" height="16" rx="2" class="loading"/>
+  <rect x="12" y="370" width="101" height="16" rx="2" class="loading"/>
+  <rect x="12" y="266" width="95" height="16" rx="2" class="loading"/>
+  <rect x="12" y="136" width="101" height="16" rx="2" class="loading"/>
+  <rect x="12" y="188" width="89" height="16" rx="2" class="loading"/>
+  <rect x="12" y="344" width="89" height="16" rx="2" class="loading"/>
+  <rect x="12" y="240" width="89" height="16" rx="2" class="loading"/>
+  <rect x="12" y="292" width="107" height="16" rx="2" class="loading"/>
+  <style>
+    @keyframes loading {
+      0% {
+        fill: #242424
+      }
+
+      50% {
+        fill: #3C3C3C
+      }
+
+      100% {
+        fill: #242424
+      }
+    }
+
+    .loading {
+      animation: 1.5s loading ease infinite;
+    }
+  </style>
+</svg>
